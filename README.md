@@ -1,7 +1,11 @@
 # ros1_UGV_autonomous_software
 ROS notes and code for designing an autonomous software for navigating outdoors and indoors based on various ros1 packages
 # System demo
-<video src='Simulation_demo.mp4'> </video>
+
+
+https://github.com/mohamedmajdi/ros1_UGV_autonomous_software/assets/69417860/bb721b5b-4084-4110-99c0-dde06de5794f
+
+
 # Sensors used
 1. Lidar
 2. GPS
