@@ -3,7 +3,7 @@ ROS notes and code for designing an autonomous software for navigating outdoors 
 # System demo
 
 
-https://github.com/mohamedmajdi/ros1_UGV_autonomous_software/assets/69417860/bb721b5b-4084-4110-99c0-dde06de5794f.mp4
+https://github.com/mohamedmajdi/ros1_UGV_autonomous_software/Simulation_demo.mp4
 
 
 # Sensors used
